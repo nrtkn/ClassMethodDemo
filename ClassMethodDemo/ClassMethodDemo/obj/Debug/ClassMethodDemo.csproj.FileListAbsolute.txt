@@ -1,0 +1,7 @@
+C:\Users\nuriu\source\repos\ClassMethodDemo\ClassMethodDemo\bin\Debug\ClassMethodDemo.exe.config
+C:\Users\nuriu\source\repos\ClassMethodDemo\ClassMethodDemo\bin\Debug\ClassMethodDemo.exe
+C:\Users\nuriu\source\repos\ClassMethodDemo\ClassMethodDemo\bin\Debug\ClassMethodDemo.pdb
+C:\Users\nuriu\source\repos\ClassMethodDemo\ClassMethodDemo\obj\Debug\ClassMethodDemo.csprojAssemblyReference.cache
+C:\Users\nuriu\source\repos\ClassMethodDemo\ClassMethodDemo\obj\Debug\ClassMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\nuriu\source\repos\ClassMethodDemo\ClassMethodDemo\obj\Debug\ClassMethodDemo.exe
+C:\Users\nuriu\source\repos\ClassMethodDemo\ClassMethodDemo\obj\Debug\ClassMethodDemo.pdb
